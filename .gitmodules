@@ -1,0 +1,3 @@
+[submodule "cloud-project-applications"]
+	path = cloud-project-applications
+	url = https://github.com/gabrielzezze/cloud-project-applications.git
